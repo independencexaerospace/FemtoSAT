@@ -5,3 +5,55 @@ This is the Femto-Satelite Github develop by Independenxe-X- Aerospace. We are p
 In this repositories, we include the quick datasheet for quick reference, and we will update more and more of the project.
 
 Get excited and contribute more for this project!
+
+# GerhanaSAT
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE) [![Latest Release](https://img.shields.io/github/v/release/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/releases) [![Last Commit](https://img.shields.io/github/last-commit/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/commits/main)
+
+GerhanaSAT is a femtosatellite by Independence-X Aerospace.  
+It weighs less than 100 g. We plan a constellation in equatorial low Earth orbit.  
+It will support IoT and drone communications across the equator.
+
+## Table of Contents
+
+- [Features](#features)  
+- [Quick Start](#quick-start)  
+- [Documentation](#documentation)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)
+
+## Features
+
+- **Mass < 100 g** (femto-class)  
+- **ADCS** – Attitude Determination & Control  
+- **C&DH** – Command & Data Handling  
+- **EPS** – Electrical Power System  
+- **OBC** – On-board Computer  
+- **Comm** – UHF/VHF radio link  
+
+## Quick Start
+
+1. **Clone**  
+   ```bash
+   git clone https://github.com/independencexaerospace/FemtoSAT.git
+   cd FemtoSAT
+2. **View Datasheet**
+   See GerhanaSAT datasheet_quickstart guide.pdf
+
+**Documentation**
+
+All detailed docs, schematics, and interface specs live in the docs/ folder.
+We’ll update it as the project evolves.
+
+**Contributing**
+
+We welcome fixes, features, and ideas. Please:
+
+1. Fork the repo.
+2. Create a branch (git checkout -b feature/xyz).
+3. Commit your changes (git commit -m "Add xyz").
+4. Open a PR against main.
+
+See CONTRIBUTING.md for guidelines and templates.
+   
