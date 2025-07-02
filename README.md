@@ -8,7 +8,7 @@ Get excited and contribute more for this project!
 
 # GerhanaSAT
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE) [![Latest Release](https://img.shields.io/github/v/release/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/releases) [![Last Commit](https://img.shields.io/github/last-commit/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/commits/main)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE) [![Latest Release](https://img.shields.io/github/v/release/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/releases) [![Last Commit](https://img.shields.io/github/last-commit/independencexaerospace/FemtoSAT)](https://github.com/independencexaerospace/FemtoSAT/commits/main)
 
 GerhanaSAT is a femtosatellite by Independence-X Aerospace.  
 It weighs less than 100 g. We plan a constellation in equatorial low Earth orbit.  
